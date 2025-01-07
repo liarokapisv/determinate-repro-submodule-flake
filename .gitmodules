@@ -1,0 +1,3 @@
+[submodule "determinate-repro-external-repo"]
+	path = determinate-repro-external-repo
+	url = git@github.com:liarokapisv/determinate-repro-external-repo.git
